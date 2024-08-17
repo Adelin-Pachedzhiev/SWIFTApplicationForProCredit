@@ -1,15 +1,15 @@
-﻿using WebApplication1.Data;
+﻿using System.Text.RegularExpressions;
+using WebApplication1.Data;
 using static System.Net.Mime.MediaTypeNames;
 
 namespace WebApplication1.Services
 {
     public class SwiftParserService : ISwiftParserService
     {
-        public MT799Model Parser(string swiffContent)
+        public async Task<MT799Model> Parser(string swiffContent)
         {
-            var blocks = swiffContent.Split(new[] { '{', '}' }, StringSplitOptions.RemoveEmptyEntries)
-                .Select(x=> x.Trim())
-                .ToList();
+            var blockMatches = Regex.Matches(swiffContent, @"\{[0-9]+:[^{}]*?(?:\{[^{}]*\})*\}", RegexOptions.Singleline);
+            var blocks = blockMatches.Select(x => x.Value).ToList();
 
             var mtData = new MT799Model
             {
@@ -25,10 +25,9 @@ namespace WebApplication1.Services
         private string GetBlockContent(List<string> blocks, string identifier)
         {
             var block = blocks
-                .Where(x => x.StartsWith(identifier + ":"))
+                .Where(x => x.StartsWith('{'+identifier + ":"))
                 .FirstOrDefault();
 
-            //removing the identifier
             if (block != null)
             {
                 return block.Substring(identifier.Length + 1).Trim();
