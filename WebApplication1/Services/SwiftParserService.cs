@@ -18,7 +18,7 @@ namespace WebApplication1.Services
                 UserHeader = GetBlockContent(blocks, "3"),
                 Text = GetBlockContent(blocks, "4"),
                 Tailers = GetBlockContent(blocks, "5")
-            }; ;
+            }; 
             return mtData;
         }
 
