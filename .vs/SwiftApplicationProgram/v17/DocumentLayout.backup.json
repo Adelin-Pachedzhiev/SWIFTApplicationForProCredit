@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BA6F5C9-64AC-46FA-9C2C-1829925CB090}|WebApplication1\\WebApplication1.csproj|c:\\users\\erol\\source\\repos\\swiftapplicationprogram\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BA6F5C9-64AC-46FA-9C2C-1829925CB090}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3BA6F5C9-64AC-46FA-9C2C-1829925CB090}|WebApplication1\\WebApplication1.csproj|c:\\users\\erol\\source\\repos\\swiftapplicationprogram\\webapplication1\\services\\swiftparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BA6F5C9-64AC-46FA-9C2C-1829925CB090}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\swiftparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA6F5C9-64AC-46FA-9C2C-1829925CB090}|WebApplication1\\WebApplication1.csproj|c:\\users\\erol\\source\\repos\\swiftapplicationprogram\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA6F5C9-64AC-46FA-9C2C-1829925CB090}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BA6F5C9-64AC-46FA-9C2C-1829925CB090}|WebApplication1\\WebApplication1.csproj|c:\\users\\erol\\source\\repos\\swiftapplicationprogram\\webapplication1\\data\\mt799model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,21 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SwiftParserService.cs",
               "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\SwiftParserService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\SwiftParserService.cs",
               "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\SwiftParserService.cs",
               "RelativeToolTip": "WebApplication1\\Services\\SwiftParserService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T08:16:57.031Z",
               "EditorCaption": ""
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -131,8 +131,7 @@
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAcwBEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T16:28:55.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T16:28:55.301Z"
             },
             {
               "$type": "Document",
@@ -145,10 +144,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T08:09:36.851Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
