@@ -30,3 +30,4 @@ C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1\obj\Debug\net
 C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
