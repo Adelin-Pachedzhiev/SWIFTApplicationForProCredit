@@ -13,15 +13,11 @@ namespace SwiftApplicationAPI.Controllers
     [Route("[controller]/[action]")]
     public class SwiftController : ControllerBase
     {
-        private readonly ISwiftParserService swiftParserService;
-        private readonly ISwiftMessageRepository swiftMessageRepository;
         private readonly IMediator mediator;
         private readonly ILogger<SwiftController> logger;
 
-        public SwiftController(ISwiftParserService swiftParserService, ISwiftMessageRepository swiftMessageRepository, IMediator mediator,ILogger<SwiftController> logger)
+        public SwiftController(IMediator mediator,ILogger<SwiftController> logger)
         {
-            this.swiftParserService = swiftParserService;
-            this.swiftMessageRepository = swiftMessageRepository;
             this.mediator = mediator;
             this.logger = logger;
         }
