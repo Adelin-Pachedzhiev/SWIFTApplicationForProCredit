@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|c:\\users\\erol\\source\\repos\\swiftapplicationprogram\\swiftapplicationapi\\controllers\\swiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|solutionrelative:swiftapplicationapi\\controllers\\swiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|c:\\users\\erol\\source\\repos\\swiftapplicationprogram\\swiftapplicationapi\\commands\\swiftmessageinsertingcommand\\swiftmessageinsertingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|solutionrelative:swiftapplicationapi\\commands\\swiftmessageinsertingcommand\\swiftmessageinsertingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|c:\\users\\erol\\source\\repos\\swiftapplicationprogram\\swiftapplicationapi\\queries\\getswiftmessage\\getswiftmessagequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|solutionrelative:swiftapplicationapi\\queries\\getswiftmessage\\getswiftmessagequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|c:\\users\\erol\\source\\repos\\swiftapplicationprogram\\swiftapplicationapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|solutionrelative:swiftapplicationapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SWIFTMessageInsertingCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\Commands\\SWIFTMessageInsertingCommand\\SWIFTMessageInsertingCommandHandler.cs",
+              "RelativeDocumentMoniker": "SwiftApplicationAPI\\Commands\\SWIFTMessageInsertingCommand\\SWIFTMessageInsertingCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\Commands\\SWIFTMessageInsertingCommand\\SWIFTMessageInsertingCommandHandler.cs",
+              "RelativeToolTip": "SwiftApplicationAPI\\Commands\\SWIFTMessageInsertingCommand\\SWIFTMessageInsertingCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:06:58.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SwiftApplicationAPI\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\DependencyInjection.cs",
+              "RelativeToolTip": "SwiftApplicationAPI\\DependencyInjection.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:59:52.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetSwiftMessageQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\Queries\\GetSwiftMessage\\GetSwiftMessageQueryHandler.cs",
+              "RelativeDocumentMoniker": "SwiftApplicationAPI\\Queries\\GetSwiftMessage\\GetSwiftMessageQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\Queries\\GetSwiftMessage\\GetSwiftMessageQueryHandler.cs",
+              "RelativeToolTip": "SwiftApplicationAPI\\Queries\\GetSwiftMessage\\GetSwiftMessageQueryHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:39:05.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwiftController.cs",
+              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\Controllers\\SwiftController.cs",
+              "RelativeDocumentMoniker": "SwiftApplicationAPI\\Controllers\\SwiftController.cs",
+              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\Controllers\\SwiftController.cs",
+              "RelativeToolTip": "SwiftApplicationAPI\\Controllers\\SwiftController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:35:22.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

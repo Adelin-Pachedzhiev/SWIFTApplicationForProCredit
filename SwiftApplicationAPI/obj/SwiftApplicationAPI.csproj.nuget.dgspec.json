@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[2.1.35, )"
             },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
             "Microsoft.Data.Sqlite.Core": {
               "target": "Package",
               "version": "[8.0.8, )"

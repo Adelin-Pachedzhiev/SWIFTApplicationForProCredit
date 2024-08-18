@@ -122,3 +122,5 @@ C:\Users\Erol\source\repos\SwiftApplicationProgram\SwiftApplicationAPI\obj\Debug
 C:\Users\Erol\source\repos\SwiftApplicationProgram\SwiftApplicationAPI\obj\Debug\net8.0\SwiftApplicationAPI.pdb
 C:\Users\Erol\source\repos\SwiftApplicationProgram\SwiftApplicationAPI\obj\Debug\net8.0\SwiftApplicationAPI.genruntimeconfig.cache
 C:\Users\Erol\source\repos\SwiftApplicationProgram\SwiftApplicationAPI\obj\Debug\net8.0\ref\SwiftApplicationAPI.dll
+C:\Users\Erol\source\repos\SwiftApplicationProgram\SwiftApplicationAPI\bin\Debug\net8.0\MediatR.dll
+C:\Users\Erol\source\repos\SwiftApplicationProgram\SwiftApplicationAPI\bin\Debug\net8.0\MediatR.Contracts.dll

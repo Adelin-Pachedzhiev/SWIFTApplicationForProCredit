@@ -3,52 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\ISwiftMessageRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Services\\ISwiftMessageRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|c:\\users\\erol\\source\\repos\\swiftapplicationprogram\\swiftapplicationapi\\controllers\\swiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|solutionrelative:swiftapplicationapi\\controllers\\swiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\SwiftMessageRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Services\\SwiftMessageRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|c:\\users\\erol\\source\\repos\\swiftapplicationprogram\\swiftapplicationapi\\commands\\swiftmessageinsertingcommand\\swiftmessageinsertingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|solutionrelative:swiftapplicationapi\\commands\\swiftmessageinsertingcommand\\swiftmessageinsertingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\SwiftParserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Services\\SwiftParserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|c:\\users\\erol\\source\\repos\\swiftapplicationprogram\\swiftapplicationapi\\queries\\getswiftmessage\\getswiftmessagequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|solutionrelative:swiftapplicationapi\\queries\\getswiftmessage\\getswiftmessagequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Controllers\\SwiftController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Controllers\\SwiftController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\ISwiftParserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Services\\ISwiftParserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Data\\SWIFTMessagesDataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Data\\SWIFTMessagesDataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\logs\\log20240818.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\logs\\log20240818.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Models\\MT799Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Models\\MT799Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|c:\\users\\erol\\source\\repos\\swiftapplicationprogram\\swiftapplicationapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861989ED-00D5-494C-9FCE-DD8F87ECAC10}|SwiftApplicationAPI\\SwiftApplicationAPI.csproj|solutionrelative:swiftapplicationapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,150 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ISwiftMessageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\ISwiftMessageRepository.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\ISwiftMessageRepository.cs",
-              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\ISwiftMessageRepository.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\ISwiftMessageRepository.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T14:00:42.737Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SwiftMessageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\SwiftMessageRepository.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\SwiftMessageRepository.cs",
-              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\SwiftMessageRepository.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\SwiftMessageRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAIAAAAAAAAAA==",
+              "Title": "SWIFTMessageInsertingCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\Commands\\SWIFTMessageInsertingCommand\\SWIFTMessageInsertingCommandHandler.cs",
+              "RelativeDocumentMoniker": "SwiftApplicationAPI\\Commands\\SWIFTMessageInsertingCommand\\SWIFTMessageInsertingCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\Commands\\SWIFTMessageInsertingCommand\\SWIFTMessageInsertingCommandHandler.cs",
+              "RelativeToolTip": "SwiftApplicationAPI\\Commands\\SWIFTMessageInsertingCommand\\SWIFTMessageInsertingCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T14:05:30.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SwiftParserService.cs",
-              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\SwiftParserService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\SwiftParserService.cs",
-              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\SwiftParserService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\SwiftParserService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAtwBIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T06:40:06.277Z"
+              "WhenOpened": "2024-08-18T16:06:58.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\appsettings.Development.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-18T14:31:30.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SwiftController.cs",
-              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Controllers\\SwiftController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SwiftController.cs",
-              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Controllers\\SwiftController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\SwiftController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAuwDkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T06:05:03.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T19:20:03.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ISwiftParserService.cs",
-              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\ISwiftParserService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\ISwiftParserService.cs",
-              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Services\\ISwiftParserService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\ISwiftParserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T06:40:10.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\DependencyInjection.cs",
-              "RelativeToolTip": "WebApplication1\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SwiftApplicationAPI\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\DependencyInjection.cs",
+              "RelativeToolTip": "SwiftApplicationAPI\\DependencyInjection.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T19:22:19.353Z"
+              "WhenOpened": "2024-08-18T15:59:52.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SWIFTMessagesDataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Data\\SWIFTMessagesDataContext.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Data\\SWIFTMessagesDataContext.cs",
-              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Data\\SWIFTMessagesDataContext.cs",
-              "RelativeToolTip": "WebApplication1\\Data\\SWIFTMessagesDataContext.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAApwBoAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GetSwiftMessageQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\Queries\\GetSwiftMessage\\GetSwiftMessageQueryHandler.cs",
+              "RelativeDocumentMoniker": "SwiftApplicationAPI\\Queries\\GetSwiftMessage\\GetSwiftMessageQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\Queries\\GetSwiftMessage\\GetSwiftMessageQueryHandler.cs",
+              "RelativeToolTip": "SwiftApplicationAPI\\Queries\\GetSwiftMessage\\GetSwiftMessageQueryHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T13:38:50.079Z"
+              "WhenOpened": "2024-08-18T15:39:05.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-18T06:40:04.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "log20240818.txt",
-              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\logs\\log20240818.txt",
-              "RelativeDocumentMoniker": "WebApplication1\\logs\\log20240818.txt",
-              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\logs\\log20240818.txt",
-              "RelativeToolTip": "WebApplication1\\logs\\log20240818.txt",
-              "ViewState": "AgIAAK0AAAAAAAAAAAAAAMMAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-18T15:07:39.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MT799Model.cs",
-              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Models\\MT799Model.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\MT799Model.cs",
-              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\WebApplication1\\Models\\MT799Model.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\MT799Model.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SwiftController.cs",
+              "DocumentMoniker": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\Controllers\\SwiftController.cs",
+              "RelativeDocumentMoniker": "SwiftApplicationAPI\\Controllers\\SwiftController.cs",
+              "ToolTip": "C:\\Users\\Erol\\source\\repos\\SwiftApplicationProgram\\SwiftApplicationAPI\\Controllers\\SwiftController.cs",
+              "RelativeToolTip": "SwiftApplicationAPI\\Controllers\\SwiftController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwDAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T07:23:09.656Z"
+              "WhenOpened": "2024-08-18T15:35:22.368Z",
+              "EditorCaption": ""
             }
           ]
         }
