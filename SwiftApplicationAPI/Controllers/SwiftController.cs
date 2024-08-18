@@ -4,6 +4,8 @@ using SwiftApplicationAPI.Services;
 using System.Text;
 using SwiftApplicationAPI.Models;
 using SwiftApplicationAPI.Services;
+using MediatR;
+using SwiftApplicationAPI.Queries.GetSwiftMessage;
 
 namespace SwiftApplicationAPI.Controllers
 {
@@ -13,12 +15,14 @@ namespace SwiftApplicationAPI.Controllers
     {
         private readonly ISwiftParserService swiftParserService;
         private readonly ISwiftMessageRepository swiftMessageRepository;
+        private readonly IMediator mediator;
         private readonly ILogger<SwiftController> logger;
 
-        public SwiftController(ISwiftParserService swiftParserService, ISwiftMessageRepository swiftMessageRepository, ILogger<SwiftController> logger)
+        public SwiftController(ISwiftParserService swiftParserService, ISwiftMessageRepository swiftMessageRepository, IMediator mediator,ILogger<SwiftController> logger)
         {
             this.swiftParserService = swiftParserService;
             this.swiftMessageRepository = swiftMessageRepository;
+            this.mediator = mediator;
             this.logger = logger;
         }
 
@@ -27,17 +31,8 @@ namespace SwiftApplicationAPI.Controllers
         {
             try
             {
-                logger.LogInformation("Reading through the SWIFT File");
-
-                var swiftContent = new StringBuilder();
-                using (var reader = new StreamReader(swiftInput.OpenReadStream()))
-                {
-                    swiftContent.Append(reader.ReadToEnd());
-                }
-
-                logger.LogInformation("Reading completed succesfully.Now begging Parsing");
-
-                var result = await swiftParserService.Parser(swiftContent.ToString());
+                logger.LogInformation("Sending the GetSwiftMessageQuery");
+                var result = await mediator.Send(new GetSwiftMessageQuery(swiftInput));
                 return result;
             }
             catch (Exception ex)
@@ -51,22 +46,8 @@ namespace SwiftApplicationAPI.Controllers
         {
             try
             {
-                logger.LogInformation("Reading through the SWIFT File");
-
-                var swiftContent = new StringBuilder();
-                using (var reader = new StreamReader(swiftInput.OpenReadStream()))
-                {
-                    swiftContent.Append(reader.ReadToEnd());
-                }
-
-                logger.LogInformation("Reading completed succesfully.Now begging Parsing");
-
-                var parsedResult = await swiftParserService.Parser(swiftContent.ToString());
-
-                logger.LogInformation("Inserting in the table");
-                var result = await swiftMessageRepository.Create(parsedResult);
-                logger.LogInformation($"Inserting completed, numbers of row affected :{result}");
-
+                logger.LogInformation("Sending a SwiftMessageInsertingCommand");
+                var result = await mediator.Send(new SWIFTMessageInsertingCommand(swiftInput));
                 return result;
             }
             catch (Exception ex)
