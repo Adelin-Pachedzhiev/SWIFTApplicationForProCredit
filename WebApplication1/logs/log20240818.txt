@@ -1,0 +1,188 @@
+2024-08-18 10:01:51.660 +03:00 [INF] The program is starting
+2024-08-18 10:02:05.435 +03:00 [INF] Parsing the SWIFT FILE
+2024-08-18 10:02:13.336 +03:00 [INF] Parsing Completed
+2024-08-18 10:29:44.477 +03:00 [INF] The program is starting
+2024-08-18 10:29:45.615 +03:00 [INF] Now listening on: https://localhost:7220
+2024-08-18 10:29:45.620 +03:00 [INF] Now listening on: http://localhost:5092
+2024-08-18 10:29:45.658 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-18 10:29:45.661 +03:00 [INF] Hosting environment: Development
+2024-08-18 10:29:45.663 +03:00 [INF] Content root path: C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1
+2024-08-18 10:29:46.365 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger - null null
+2024-08-18 10:29:46.642 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger - 301 0 null 282.7457ms
+2024-08-18 10:29:46.648 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2024-08-18 10:29:46.701 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 53.3641ms
+2024-08-18 10:29:46.721 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/swagger-ui-standalone-preset.js - null null
+2024-08-18 10:29:46.721 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/swagger-ui.css - null null
+2024-08-18 10:29:46.721 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-18 10:29:46.721 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/swagger-ui-bundle.js - null null
+2024-08-18 10:29:46.729 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2024-08-18 10:29:46.744 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 23.086ms
+2024-08-18 10:29:46.788 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-08-18 10:29:46.788 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-08-18 10:29:46.788 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 67.0487ms
+2024-08-18 10:29:46.788 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/swagger-ui.css - 200 143943 text/css 68.6322ms
+2024-08-18 10:29:46.810 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-08-18 10:29:46.810 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 89.3872ms
+2024-08-18 10:29:46.879 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 150.778ms
+2024-08-18 10:29:46.946 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2024-08-18 10:29:47.009 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 63.9145ms
+2024-08-18 10:32:40.927 +03:00 [INF] The program is starting
+2024-08-18 10:32:41.301 +03:00 [INF] Now listening on: https://localhost:7220
+2024-08-18 10:32:41.305 +03:00 [INF] Now listening on: http://localhost:5092
+2024-08-18 10:32:41.351 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-18 10:32:41.355 +03:00 [INF] Hosting environment: Development
+2024-08-18 10:32:41.358 +03:00 [INF] Content root path: C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1
+2024-08-18 10:32:42.496 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2024-08-18 10:32:42.738 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 252.9409ms
+2024-08-18 10:32:42.770 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-18 10:32:42.770 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2024-08-18 10:32:42.825 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 36.0924ms
+2024-08-18 10:32:42.855 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 85.1021ms
+2024-08-18 10:32:43.021 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2024-08-18 10:32:43.103 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 83.3744ms
+2024-08-18 10:32:49.379 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7220/Swift - multipart/form-data; boundary=----WebKitFormBoundaryrtvu6zhBq3lctB14 889
+2024-08-18 10:32:49.390 +03:00 [INF] Executing endpoint 'WebApplication1.Controllers.SwiftController.GetSwiftMessage (WebApplication1)'
+2024-08-18 10:32:49.417 +03:00 [INF] Route matched with {action = "GetSwiftMessage", controller = "Swift"}. Executing controller action with signature System.Threading.Tasks.Task`1[WebApplication1.Models.MT799Model] GetSwiftMessage(Microsoft.AspNetCore.Http.IFormFile) on controller WebApplication1.Controllers.SwiftController (WebApplication1).
+2024-08-18 10:35:08.571 +03:00 [INF] The program is starting
+2024-08-18 10:35:08.831 +03:00 [INF] Now listening on: https://localhost:7220
+2024-08-18 10:35:08.833 +03:00 [INF] Now listening on: http://localhost:5092
+2024-08-18 10:35:08.902 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-18 10:35:08.903 +03:00 [INF] Hosting environment: Development
+2024-08-18 10:35:08.905 +03:00 [INF] Content root path: C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1
+2024-08-18 10:35:09.619 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2024-08-18 10:35:09.905 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 294.8968ms
+2024-08-18 10:35:09.979 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-18 10:35:09.986 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2024-08-18 10:35:09.991 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 10.7473ms
+2024-08-18 10:35:10.077 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 91.0724ms
+2024-08-18 10:35:10.170 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2024-08-18 10:35:10.311 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 141.4607ms
+2024-08-18 10:35:20.740 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7220/Swift - multipart/form-data; boundary=----WebKitFormBoundaryyy4PZ6A2lPJatGNL 889
+2024-08-18 10:35:20.746 +03:00 [INF] Executing endpoint 'WebApplication1.Controllers.SwiftController.GetSwiftMessage (WebApplication1)'
+2024-08-18 10:35:20.782 +03:00 [INF] Route matched with {action = "GetSwiftMessage", controller = "Swift"}. Executing controller action with signature System.Threading.Tasks.Task`1[WebApplication1.Models.MT799Model] GetSwiftMessage(Microsoft.AspNetCore.Http.IFormFile) on controller WebApplication1.Controllers.SwiftController (WebApplication1).
+2024-08-18 10:35:42.907 +03:00 [INF] Parsing the SWIFT FILE
+2024-08-18 10:35:51.232 +03:00 [INF] Parsing Completed
+2024-08-18 10:35:56.274 +03:00 [INF] Executing ObjectResult, writing value of type 'WebApplication1.Models.MT799Model'.
+2024-08-18 10:35:58.399 +03:00 [INF] Executed action WebApplication1.Controllers.SwiftController.GetSwiftMessage (WebApplication1) in 37611.9259ms
+2024-08-18 10:35:58.399 +03:00 [INF] Executed endpoint 'WebApplication1.Controllers.SwiftController.GetSwiftMessage (WebApplication1)'
+2024-08-18 10:35:58.400 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7220/Swift - 200 null application/json; charset=utf-8 37661.4281ms
+2024-08-18 10:37:10.462 +03:00 [INF] The program is starting
+2024-08-18 10:37:10.768 +03:00 [INF] Now listening on: https://localhost:7220
+2024-08-18 10:37:10.771 +03:00 [INF] Now listening on: http://localhost:5092
+2024-08-18 10:37:10.799 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-18 10:37:10.800 +03:00 [INF] Hosting environment: Development
+2024-08-18 10:37:10.802 +03:00 [INF] Content root path: C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1
+2024-08-18 10:37:11.927 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2024-08-18 10:37:12.183 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 265.523ms
+2024-08-18 10:37:12.204 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-18 10:37:12.204 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2024-08-18 10:37:12.212 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 7.8066ms
+2024-08-18 10:37:12.243 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.0212ms
+2024-08-18 10:37:12.280 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2024-08-18 10:37:12.364 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 83.89ms
+2024-08-18 10:37:20.858 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7220/Swift - multipart/form-data; boundary=----WebKitFormBoundaryZQuCzASbUwmLVN50 889
+2024-08-18 10:37:20.876 +03:00 [INF] Executing endpoint 'WebApplication1.Controllers.SwiftController.GetSwiftMessage (WebApplication1)'
+2024-08-18 10:37:20.909 +03:00 [INF] Route matched with {action = "GetSwiftMessage", controller = "Swift"}. Executing controller action with signature System.Threading.Tasks.Task`1[WebApplication1.Models.MT799Model] GetSwiftMessage(Microsoft.AspNetCore.Http.IFormFile) on controller WebApplication1.Controllers.SwiftController (WebApplication1).
+2024-08-18 10:37:30.485 +03:00 [INF] Parsing the SWIFT FILE
+2024-08-18 10:45:25.863 +03:00 [INF] Parsing Completed
+2024-08-18 10:45:25.870 +03:00 [INF] Executing ObjectResult, writing value of type 'WebApplication1.Models.MT799Model'.
+2024-08-18 10:45:25.876 +03:00 [INF] Executed action WebApplication1.Controllers.SwiftController.GetSwiftMessage (WebApplication1) in 484961.671ms
+2024-08-18 10:45:25.876 +03:00 [INF] Executed endpoint 'WebApplication1.Controllers.SwiftController.GetSwiftMessage (WebApplication1)'
+2024-08-18 10:45:25.877 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7220/Swift - 200 null application/json; charset=utf-8 485019.1299ms
+2024-08-18 10:50:53.221 +03:00 [INF] The program is starting
+2024-08-18 10:50:53.556 +03:00 [INF] Now listening on: https://localhost:7220
+2024-08-18 10:50:53.559 +03:00 [INF] Now listening on: http://localhost:5092
+2024-08-18 10:50:53.606 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-18 10:50:53.608 +03:00 [INF] Hosting environment: Development
+2024-08-18 10:50:53.610 +03:00 [INF] Content root path: C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1
+2024-08-18 10:50:54.389 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2024-08-18 10:50:54.649 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 265.5036ms
+2024-08-18 10:50:54.660 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-18 10:50:54.667 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 6.2198ms
+2024-08-18 10:50:54.671 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2024-08-18 10:50:54.721 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 50.451ms
+2024-08-18 10:50:54.760 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2024-08-18 10:50:54.852 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 93.3625ms
+2024-08-18 10:51:02.815 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7220/Swift - multipart/form-data; boundary=----WebKitFormBoundarybslK6ykv0Q72Qdho 889
+2024-08-18 10:51:02.823 +03:00 [INF] Executing endpoint 'WebApplication1.Controllers.SwiftController.GetSwiftMessage (WebApplication1)'
+2024-08-18 10:51:02.848 +03:00 [INF] Route matched with {action = "GetSwiftMessage", controller = "Swift"}. Executing controller action with signature System.Threading.Tasks.Task`1[WebApplication1.Models.MT799Model] GetSwiftMessage(Microsoft.AspNetCore.Http.IFormFile) on controller WebApplication1.Controllers.SwiftController (WebApplication1).
+2024-08-18 10:51:06.941 +03:00 [INF] Parsing the SWIFT FILE
+2024-08-18 10:56:48.091 +03:00 [INF] The program is starting
+2024-08-18 10:56:48.406 +03:00 [INF] Now listening on: https://localhost:7220
+2024-08-18 10:56:48.409 +03:00 [INF] Now listening on: http://localhost:5092
+2024-08-18 10:56:48.457 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-18 10:56:48.459 +03:00 [INF] Hosting environment: Development
+2024-08-18 10:56:48.461 +03:00 [INF] Content root path: C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1
+2024-08-18 10:56:49.454 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2024-08-18 10:56:49.753 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 306.3194ms
+2024-08-18 10:56:49.777 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-18 10:56:49.781 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2024-08-18 10:56:49.783 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 6.5584ms
+2024-08-18 10:56:49.820 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.2152ms
+2024-08-18 10:56:49.865 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2024-08-18 10:56:49.952 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 86.5075ms
+2024-08-18 10:57:06.221 +03:00 [INF] The program is starting
+2024-08-18 10:57:06.540 +03:00 [INF] Now listening on: https://localhost:7220
+2024-08-18 10:57:06.543 +03:00 [INF] Now listening on: http://localhost:5092
+2024-08-18 10:57:06.574 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-18 10:57:06.576 +03:00 [INF] Hosting environment: Development
+2024-08-18 10:57:06.578 +03:00 [INF] Content root path: C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1
+2024-08-18 10:57:07.509 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2024-08-18 10:57:07.736 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 242.5152ms
+2024-08-18 10:57:07.763 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2024-08-18 10:57:07.763 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-18 10:57:07.773 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 9.9914ms
+2024-08-18 10:57:07.817 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 54.1907ms
+2024-08-18 10:57:07.851 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2024-08-18 10:57:07.928 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 77.7349ms
+2024-08-18 10:57:13.596 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7220/Swift - multipart/form-data; boundary=----WebKitFormBoundary349c63Co11ndB06h 889
+2024-08-18 10:57:13.617 +03:00 [INF] Executing endpoint 'WebApplication1.Controllers.SwiftController.GetSwiftMessage (WebApplication1)'
+2024-08-18 10:57:13.644 +03:00 [INF] Route matched with {action = "GetSwiftMessage", controller = "Swift"}. Executing controller action with signature System.Threading.Tasks.Task`1[WebApplication1.Models.MT799Model] GetSwiftMessage(Microsoft.AspNetCore.Http.IFormFile) on controller WebApplication1.Controllers.SwiftController (WebApplication1).
+2024-08-18 10:57:16.523 +03:00 [INF] Parsing the SWIFT FILE
+2024-08-18 10:57:22.835 +03:00 [INF] Parsing Completed
+2024-08-18 10:57:22.842 +03:00 [INF] Executing ObjectResult, writing value of type 'WebApplication1.Models.MT799Model'.
+2024-08-18 10:57:22.857 +03:00 [INF] Executed action WebApplication1.Controllers.SwiftController.GetSwiftMessage (WebApplication1) in 9207.858ms
+2024-08-18 10:57:22.858 +03:00 [INF] Executed endpoint 'WebApplication1.Controllers.SwiftController.GetSwiftMessage (WebApplication1)'
+2024-08-18 10:57:22.858 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7220/Swift - 200 null application/json; charset=utf-8 9262.5221ms
+2024-08-18 15:56:50.089 +03:00 [INF] The program is starting
+2024-08-18 15:56:50.366 +03:00 [INF] Now listening on: https://localhost:7220
+2024-08-18 15:56:50.370 +03:00 [INF] Now listening on: http://localhost:5092
+2024-08-18 15:56:50.415 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-18 15:56:50.417 +03:00 [INF] Hosting environment: Development
+2024-08-18 15:56:50.418 +03:00 [INF] Content root path: C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1
+2024-08-18 15:56:51.735 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2024-08-18 15:56:52.034 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 305.0138ms
+2024-08-18 15:56:52.042 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-18 15:56:52.048 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 6.0931ms
+2024-08-18 15:56:52.057 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2024-08-18 15:56:52.100 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.7805ms
+2024-08-18 15:56:52.149 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2024-08-18 15:56:52.226 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 76.7175ms
+2024-08-18 16:00:40.596 +03:00 [INF] The program is starting
+2024-08-18 16:00:40.824 +03:00 [INF] Now listening on: https://localhost:7220
+2024-08-18 16:00:40.826 +03:00 [INF] Now listening on: http://localhost:5092
+2024-08-18 16:00:40.855 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-18 16:00:40.857 +03:00 [INF] Hosting environment: Development
+2024-08-18 16:00:40.858 +03:00 [INF] Content root path: C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1
+2024-08-18 16:00:41.405 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2024-08-18 16:00:41.631 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 230.927ms
+2024-08-18 16:00:41.653 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-18 16:00:41.654 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2024-08-18 16:00:41.662 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 8.5646ms
+2024-08-18 16:00:41.689 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.4602ms
+2024-08-18 16:00:41.758 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2024-08-18 16:00:41.825 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 67.1882ms
+2024-08-18 16:08:30.894 +03:00 [INF] The program is starting
+2024-08-18 16:08:31.118 +03:00 [INF] Now listening on: https://localhost:7220
+2024-08-18 16:08:31.120 +03:00 [INF] Now listening on: http://localhost:5092
+2024-08-18 16:08:31.152 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-18 16:08:31.155 +03:00 [INF] Hosting environment: Development
+2024-08-18 16:08:31.156 +03:00 [INF] Content root path: C:\Users\Erol\source\repos\SwiftApplicationProgram\WebApplication1
+2024-08-18 16:08:31.685 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/index.html - null null
+2024-08-18 16:08:31.866 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/index.html - 200 null text/html;charset=utf-8 187.9203ms
+2024-08-18 16:08:31.913 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_vs/browserLink - null null
+2024-08-18 16:08:31.913 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-18 16:08:31.929 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 16.4381ms
+2024-08-18 16:08:31.963 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/_vs/browserLink - 200 null text/javascript; charset=UTF-8 51.1172ms
+2024-08-18 16:08:32.025 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - null null
+2024-08-18 16:08:32.088 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7220/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 63.5394ms
