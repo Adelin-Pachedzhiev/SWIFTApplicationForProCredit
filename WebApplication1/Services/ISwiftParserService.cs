@@ -1,9 +1,9 @@
-﻿using WebApplication1.Data;
+﻿using WebApplication1.Models;
 
 namespace WebApplication1.Services
 {
     public interface ISwiftParserService
     {
-        MT799Model Parser(string swiffContent);
+        Task <MT799Model> Parser(string swiffContent);
     }
 }
