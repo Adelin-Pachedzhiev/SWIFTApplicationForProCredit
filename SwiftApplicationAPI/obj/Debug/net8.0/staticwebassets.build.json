@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "MdwsXCft8rFM/ry2bb3178sQx9jXIqq7qjjhdps6WVc=",
+  "Hash": "ly4SDYyWfaMv8d69edOVWFdyiZEN5gst7fGtR/6TYOg=",
   "Source": "SwiftApplicationAPI",
   "BasePath": "_content/SwiftApplicationAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
