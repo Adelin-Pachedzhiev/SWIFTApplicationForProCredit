@@ -5,6 +5,7 @@ using System.Text;
 using SwiftApplicationAPI.Models;
 using SwiftApplicationAPI.Services;
 using MediatR;
+using SwiftApplicationAPI.Commands;
 using SwiftApplicationAPI.Queries.GetSwiftMessage;
 
 namespace SwiftApplicationAPI.Controllers
@@ -44,6 +45,57 @@ namespace SwiftApplicationAPI.Controllers
             {
                 logger.LogInformation("Sending a SwiftMessageInsertingCommand");
                 var result = await mediator.Send(new SWIFTMessageInsertingCommand(swiftInput));
+                return result;
+            }
+            catch (Exception ex)
+            {
+                logger.LogError("Something went wrong in calling the method SWIFTMessageInserting", ex);
+                throw new Exception(ex.Message);
+            }
+
+        }
+
+        [HttpGet]
+        public async Task<IEnumerable<MT799Model>> SWIFTMessage()
+        {
+            try
+            {
+                logger.LogInformation("Reading all the SWIFTMessages");
+                var result = await mediator.Send(new SWIFTMessageRetrievingCommand());
+                return result;
+            }
+            catch (Exception ex)
+            {
+                logger.LogError("Something went wrong in calling the method SWIFTMessage", ex);
+                throw new Exception(ex.Message);
+            }
+
+        }
+
+        [HttpDelete]
+        public async Task<int> SWIFTMessage(int messageId) 
+        {
+            try
+            {
+                logger.LogInformation("Sending a SwiftMessageInsertingCommand");
+                var result = await mediator.Send(new SWIFTMessageDeletingCommand(messageId));
+                return result;
+            }
+            catch (Exception ex)
+            {
+                logger.LogError("Something went wrong in calling the method SWIFTMessageInserting", ex);
+                throw new Exception(ex.Message);
+            }
+
+        }
+        
+        [HttpPut]
+        public async Task<int> SWIFTMessage(int messageId, IFormFile swiftInput) 
+        {
+            try
+            {
+                logger.LogInformation("Sending a SwiftMessageInsertingCommand");
+                var result = await mediator.Send(new SWIFTMessageUpdatingCommand(messageId, swiftInput));
                 return result;
             }
             catch (Exception ex)
