@@ -1,11 +1,7 @@
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using SwiftApplicationAPI.Services;
-using System.Text;
-using SwiftApplicationAPI.Models;
-using SwiftApplicationAPI.Services;
 using MediatR;
+using Microsoft.AspNetCore.Mvc;
 using SwiftApplicationAPI.Commands;
+using SwiftApplicationAPI.Models;
 using SwiftApplicationAPI.Queries.GetSwiftMessage;
 
 namespace SwiftApplicationAPI.Controllers

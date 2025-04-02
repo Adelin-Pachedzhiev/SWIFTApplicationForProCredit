@@ -1,8 +1,13 @@
-﻿using MediatR;
+﻿using System.IO;
+using MediatR;
 using SwiftApplicationAPI.Controllers;
 using SwiftApplicationAPI.Models;
 using SwiftApplicationAPI.Services;
 using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Logging;
 
 namespace SwiftApplicationAPI.Queries.GetSwiftMessage
 {
